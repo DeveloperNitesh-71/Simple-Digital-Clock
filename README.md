@@ -25,7 +25,7 @@ This project focuses on JavaScript timing functions and dynamic DOM updates with
 ---
 
 ## 🌐 Live Demo
-
+https://developernitesh-71.github.io/Simple-Digital-Clock/
 ---
 
 ## 📸 Screenshots
